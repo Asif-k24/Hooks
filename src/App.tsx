@@ -1,12 +1,15 @@
 // import HookCounterOne from './components/HookCounterOne'
-import HookMouse from './components/HookMouse'
+import MouseContainer from './components/MouseContainer'
+// import HookMouse from './components/HookMouse'
 import './App.css'
 
 function App() {
   return (
     <>
       {/* <HookCounterOne /> */}
-      <HookMouse />
+      {/* <HookMouse /> */}
+      <MouseContainer />
+
     </>
   )
 }
