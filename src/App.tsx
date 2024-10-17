@@ -2,7 +2,8 @@
 // import MouseContainer from './components/MouseContainer'
 // import HookMouse from './components/HookMouse'
 // import IntervalHookCounter from './components/IntervalHookCounter'
-import DataFetching from './components/DataFetching'
+// import DataFetching from './components/DataFetching'
+import CosdenSolutionuseEffect from './components/CosdenSolutionuseEffect'
 import './App.css'
 
 function App() {
@@ -12,7 +13,8 @@ function App() {
       {/* <HookMouse /> */}
       {/* <MouseContainer /> */}
       {/* <IntervalHookCounter /> */}
-      <DataFetching />
+      {/* <DataFetching /> */}
+      <CosdenSolutionuseEffect />
     </>
   )
 }
